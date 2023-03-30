@@ -1,0 +1,9 @@
+[submodule "dwfrontend"]
+	path = dwfrontend
+	url = https://github.com/hym66/dwfrontend.git
+[submodule "dwbackend"]
+	path = dwbackend
+	url = https://github.com/hym66/dwbackend.git
+[submodule "dwbackend-neo4j"]
+	path = dwbackend-neo4j
+	url = https://github.com/hym66/dwbackend-neo4j.git
